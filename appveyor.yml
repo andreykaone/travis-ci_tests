@@ -11,3 +11,4 @@ build:
    verbosity: normal
 test: off
 deploy: off
+  - echo That's so easy!
