@@ -1,8 +1,0 @@
-sudo: false
-language: csharp
-solution: travis-ci_sample.sln
-install:
-  - nuget restore travis-ci_sample.sln
-branches:
- only:
-  - master
