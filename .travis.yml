@@ -1,6 +1,6 @@
 sudo: false
 language: csharp
-solution: travis-ci_sample.sln
+solution: "travis-ci_sample/travis-ci_sample.sln"
 branches:
  only:
   - master
